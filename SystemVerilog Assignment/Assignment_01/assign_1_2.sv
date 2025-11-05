@@ -26,3 +26,9 @@ initial begin
   $display("Queue is: %0p",q);
 end
 endmodule
+
+
+# Queue is: 12 28 5 16 18
+# Queue is: 28 12 28 5 16 18 16
+# Queue is: 12 28 5 16 18
+# exit
